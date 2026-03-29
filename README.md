@@ -12,7 +12,7 @@ I focus on the latest tools to deliver high-quality, efficient products:
 - **Backend & DB**: Node.js, TypeScript, MySQL.
 - **CMS**: [Keystatic](https://keystatic.com/) (Git-based workflow), Markdoc.
 
-## Projects & Labs
+## Projects & Labs (public)
 * **[L'Atelier Architecture](https://github.com/willblade117/l-atelier-archi)**: Implementation of Keystatic + Astro 6. Features a Markdoc-based content architecture and hybrid rendering.
 * **[Pressing L'Éclat](https://github.com/willblade117/pressing-l-eclat)**: Web Performance mastery with a perfect 100/100 Lighthouse score. Aggressive asset optimization and Zero-JS by default.
 * **[OnQuiz](https://github.com/willblade117/onquiz)**: Full-stack interactive dashboard built with Next.js, featuring state management and MySQL persistence.
